@@ -1,2 +1,15 @@
-# Projeto-Angular-17-Consumindo-Apidapper
-Projeto completo- Angular 17+ e .Net 8 | WebApi, Dapper e SqlServer
+# 🚀 Projeto Completo - Angular 17+ e .NET 8  
+🔹 **Tecnologias utilizadas:** WebAPI, Dapper, SQL Server  
+
+Este repositório contém uma aplicação full-stack moderna, utilizando **Angular 17+** no front-end e **.NET 8** no back-end. A API foi desenvolvida com **WebAPI** e integração eficiente com banco de dados via **Dapper** e **SQL Server**.  
+
+## 📌 Recursos principais:  
+✅ Arquitetura organizada e modular  
+✅ Conexão otimizada com **Dapper** para alta performance  
+✅ API robusta desenvolvida em **.NET 8**  
+✅ Interface simples e dinâmica, responsiva com **Angular 17+**  
+✅ Banco de dados estruturado com **SQL Server**  
+
+Projeto está em andamento...
+Sinta-se à vontade para explorar, contribuir e deixar ⭐ no projeto! 🚀  
+
