@@ -1,7 +1,9 @@
 # 🚀 Projeto Completo - Angular 17+ e .NET 8  
 🔹 **Tecnologias utilizadas:** WebAPI, Dapper, SQL Server  
 
-Este repositório contém uma aplicação full-stack moderna, utilizando **Angular 17+** no front-end e **.NET 8** no back-end. A API foi desenvolvida com **WebAPI** e integração eficiente com banco de dados via **Dapper** e **SQL Server**.  
+Este repositório contém uma aplicação full-stack moderna, utilizando **Angular 17+** no front-end e **.NET 8** no back-end. A API foi desenvolvida com **WebAPI** e integração eficiente com banco de dados via **Dapper** e **SQL Server**. 
+
+link do repositório da Api usada no projeto: https://github.com/devluciano/ApiCrud_C-_Dapper
 
 ## 📌 Recursos principais:  
 ✅ Arquitetura organizada e modular  
