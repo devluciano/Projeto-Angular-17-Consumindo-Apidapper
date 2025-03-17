@@ -8,3 +8,4 @@ export interface UsuarioListar{
     cpf:string;
     senha:string
 }
+
