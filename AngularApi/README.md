@@ -1,27 +1,38 @@
-# AngularApi
+## 🚀 Projeto Completo - AngularDapperCrud - Angular 17+, .NET 8.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.13.
+🔹 Tecnologias utilizadas: WebAPI, Dapper, SQL Server
 
-## Development server
+Este repositório contém uma aplicação full-stack moderna, utilizando Angular 17+ no front-end e .NET 8 no back-end. A API foi desenvolvida com WebAPI e integração eficiente com banco de dados via Dapper e SQL Server.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+link do repositório da Api usada no projeto: <https://github.com/devluciano/ApiCrud_C-_Dapper>
 
-## Code scaffolding
+📌 Recursos principais:
+✅ Arquitetura organizada e modular
+✅ Conexão otimizada com Dapper para alta performance
+✅ API robusta desenvolvida em .NET 8
+✅ Interface simples e dinâmica, responsiva com Angular 17+
+✅ Banco de dados estruturado com SQL Server
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Sinta-se à vontade para explorar, contribuir e deixar ⭐ no projeto! 🚀
+
+# AngularDapperCrud
+
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 18.2.0.
+
+## Servidor de desenvolvimento
+
+Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+
+## Estrutura de código
+
+Execute `ng generate component component-name` para gerar um novo componente. Você também pode usar `ng generate Directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Execute `ng build` para construir o projeto. Os artefatos de construção serão armazenados no diretório `dist/`.
 
-## Running unit tests
+## Executando testes de unidade
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Execute `ng test` para executar os testes de unidade via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
